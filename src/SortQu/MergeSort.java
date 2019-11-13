@@ -43,9 +43,5 @@ public class MergeSort {
                 merge(arr, low, mid, high, tmp);
             }
         }
-
     }
-
-
-
 }
